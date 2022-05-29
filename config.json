@@ -1,0 +1,9 @@
+{
+	"ip":"jattwarrior.aternos.me",
+	"port": 25758,
+	"name": "mrafk1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 123456789",
+	"login-cmd":"/login 123456789"
+}
